@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Diagnosa Kolesterol</string>
+    <string name="diagnosa_kolesterol">DIAGNOSA KOLESTEROL</string>
+    <string name="jahat_dan_baik">JAHAT DAN BAIK</string>
+    <string name="aturan_rules">ATURAN (RULES)</string>
+</resources>
